@@ -18,4 +18,5 @@ PHIGHTHOUSE!
   ],
 minGameVersion: 136.1
 version: 1.0
-
+repo: BlueDoves3821/phighthouse-accelerators
+hideBrowser: true
